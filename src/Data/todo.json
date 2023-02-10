@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Go To Market",
+    "isCompleted": false
+  },
+  {
+    "id": 2,
+    "title": "Purchase Laptop",
+    "isCompleted": true
+  },
+  {
+    "id": 3,
+    "title": "Purchase Laptop Bag",
+    "isCompleted": true
+  }
+]
