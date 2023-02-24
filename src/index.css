@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.todoitem::before {
+    content: '>';
+    font-weight: bolder;
+    color: purple;
+
+}
